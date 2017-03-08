@@ -1,0 +1,9 @@
+body{
+  background-color: lightblue;
+}
+
+#wrapper{
+  background-color: green;
+  width: 900px;
+  height: 900px;
+}
